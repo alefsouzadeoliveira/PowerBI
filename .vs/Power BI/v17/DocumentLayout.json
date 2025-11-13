@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\relationships.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\relationships.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\model.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\model.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\fMovimentacoes.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\fMovimentacoes.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\LocalDateTable_17f84ff5-c910-4c4f-931b-65f560f42232.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\LocalDateTable_17f84ff5-c910-4c4f-931b-65f560f42232.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas YoY %.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas YoY %.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas Gerais.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas Gerais.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\dCalendario.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\dCalendario.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\DateTableTemplate_88fb0cfd-5065-4629-a863-f9c658fcd729.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\DateTableTemplate_88fb0cfd-5065-4629-a863-f9c658fcd729.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\.platform||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\.platform||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition.pbism||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition.pbism||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\diagramLayout.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\diagramLayout.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.pbip||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.pbip||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\expressions.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\expressions.tmdl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\PBIP\\Dashboard SAC - Tema Dark.Report\\.pbi\\localSettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PBIP\\Dashboard SAC - Tema Dark.Report\\.pbi\\localSettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\PBIP\\Dashboard SAC - Tema Dark.pbip||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PBIP\\Dashboard SAC - Tema Dark.pbip||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fMovimentacoes.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\fMovimentacoes.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\fMovimentacoes.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\fMovimentacoes.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\fMovimentacoes.tmdl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:33:41.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalDateTable_17f84ff5-c910-4c4f-931b-65f560f42232.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\LocalDateTable_17f84ff5-c910-4c4f-931b-65f560f42232.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\LocalDateTable_17f84ff5-c910-4c4f-931b-65f560f42232.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\LocalDateTable_17f84ff5-c910-4c4f-931b-65f560f42232.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\LocalDateTable_17f84ff5-c910-4c4f-931b-65f560f42232.tmdl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:33:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Medidas YoY %.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas YoY %.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas YoY %.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas YoY %.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas YoY %.tmdl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:33:23.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Medidas Gerais.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas Gerais.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas Gerais.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas Gerais.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\_Medidas Gerais.tmdl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:33:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "model.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\model.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\model.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\model.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\model.tmdl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:31:26.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "relationships.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\relationships.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\relationships.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\relationships.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\relationships.tmdl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:31:31.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dCalendario.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\dCalendario.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\dCalendario.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\dCalendario.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\dCalendario.tmdl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:32:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateTableTemplate_88fb0cfd-5065-4629-a863-f9c658fcd729.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\DateTableTemplate_88fb0cfd-5065-4629-a863-f9c658fcd729.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\DateTableTemplate_88fb0cfd-5065-4629-a863-f9c658fcd729.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\DateTableTemplate_88fb0cfd-5065-4629-a863-f9c658fcd729.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\tables\\DateTableTemplate_88fb0cfd-5065-4629-a863-f9c658fcd729.tmdl",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:32:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".platform",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\.platform",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\.platform",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\.platform",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\.platform",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:32:31.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "definition.pbism",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition.pbism",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition.pbism",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition.pbism",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition.pbism",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:32:28.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "diagramLayout.json",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\diagramLayout.json",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\diagramLayout.json",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\diagramLayout.json",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\diagramLayout.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T13:32:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard SAC - Tema Dark.pbip",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.pbip",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.pbip",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.pbip",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.pbip",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:32:23.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "expressions.tmdl",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\expressions.tmdl",
+              "RelativeDocumentMoniker": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\expressions.tmdl",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\expressions.tmdl",
+              "RelativeToolTip": "Formats\\PBIP - TMDL\\Dashboard SAC - Tema Dark.SemanticModel\\definition\\expressions.tmdl",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:31:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "localSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\PBIP\\Dashboard SAC - Tema Dark.Report\\.pbi\\localSettings.json",
+              "RelativeDocumentMoniker": "PBIP\\Dashboard SAC - Tema Dark.Report\\.pbi\\localSettings.json",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\PBIP\\Dashboard SAC - Tema Dark.Report\\.pbi\\localSettings.json",
+              "RelativeToolTip": "PBIP\\Dashboard SAC - Tema Dark.Report\\.pbi\\localSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T13:22:59.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard SAC - Tema Dark.pbip",
+              "DocumentMoniker": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\PBIP\\Dashboard SAC - Tema Dark.pbip",
+              "RelativeDocumentMoniker": "PBIP\\Dashboard SAC - Tema Dark.pbip",
+              "ToolTip": "C:\\Users\\Alef\\OneDrive\\Documentos\\GitHub\\Power BI\\PBIP\\Dashboard SAC - Tema Dark.pbip",
+              "RelativeToolTip": "PBIP\\Dashboard SAC - Tema Dark.pbip",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T13:22:11.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
